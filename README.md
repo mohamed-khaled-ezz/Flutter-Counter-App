@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BLoC Counter Lab
 
 A Flutter mini-project demonstrating BLoC and Cubit state management with
@@ -27,3 +28,6 @@ flutter run
 ```
 
 The single counter screen contains the counter controls and the theme toggle.
+=======
+# Flutter-Counter-App
+>>>>>>> a028ae98651ca923cf6ff5ebed11a7cfa748a5de
